@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\Debug\projektasm.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>projektasm.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>projektasm.map</FILE>
+  <FILE>projektasm.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <timer0_counter><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>30</LINE></timer0_counter>
+  <timer1_counter><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>31</LINE></timer1_counter>
+  <timer2_counter><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>32</LINE></timer2_counter>
+  <main><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>221</LINE></main>
+  <ISR_PCINT0><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>85</LINE></ISR_PCINT0>
+  <ISR_TIMER2_OVF><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>148</LINE></ISR_TIMER2_OVF>
+  <ISR_TIMER1_COMPA><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>131</LINE></ISR_TIMER1_COMPA>
+  <ISR_TIMER0_OVF><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>114</LINE></ISR_TIMER0_OVF>
+  <ISR_PCINT0_2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>94</LINE></ISR_PCINT0_2>
+  <timer1_toggle><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>165</LINE></timer1_toggle>
+  <ISR_PCINT0_3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>100</LINE></ISR_PCINT0_3>
+  <timer2_toggle><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>183</LINE></timer2_toggle>
+  <ISR_PCINT0_end><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>105</LINE></ISR_PCINT0_end>
+  <system_reset><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>208</LINE></system_reset>
+  <ISR_TIMER0_OVF_end><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>122</LINE></ISR_TIMER0_OVF_end>
+  <ISR_TIMER1_COMPA_end><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>138</LINE></ISR_TIMER1_COMPA_end>
+  <ISR_TIMER2_OVF_end><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>155</LINE></ISR_TIMER2_OVF_end>
+  <timer1_off><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>172</LINE></timer1_off>
+  <timer1_on><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>169</LINE></timer1_on>
+  <timer2_off><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>190</LINE></timer2_off>
+  <timer2_on><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>187</LINE></timer2_on>
+  <setup><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>227</LINE></setup>
+  <init_registers><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>232</LINE></init_registers>
+  <init_interrupts><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>236</LINE></init_interrupts>
+  <init_timer0><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>240</LINE></init_timer0>
+  <init_timer1><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>244</LINE></init_timer1>
+  <init_timer2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>252</LINE></init_timer2>
+  <main_loop><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\projektasm\projektasm\main.asm</FILE><LINE>260</LINE></main_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
